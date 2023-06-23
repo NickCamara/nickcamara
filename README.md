@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'm Nicholas and welcome to my GitHub. Where some things about me:
+
+👨🏻‍🎓Undergraduate student in Information Systems at the renowned Universidade Federal de Goiás(UFG).
+
+👨🏻‍💻Software Engineer specialized in Ruby/Ruby on Rails, along with frontend development using HTML, CSS, and JavaScript. 
+
+👾Passionate about bugs where I can apply my knowledge and awaken my curiosity to reach the root of the problem. Additionally, I enjoy new projects that allow me to put my skills into practice and help me acquire more knowledge.
 
 <div>
   <a href="https://github.com/NickCamara">
