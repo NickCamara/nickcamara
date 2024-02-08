@@ -7,6 +7,8 @@
 
 👾Passionate about bugs where I can apply my knowledge and awaken my curiosity to reach the root of the problem. Additionally, I enjoy new projects that allow me to put my skills into practice and help me acquire more knowledge.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nickcamaraa&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
+
 <div>
   <a href="https://github.com/NickCamara">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NickCamara&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
